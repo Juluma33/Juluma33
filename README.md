@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a German high school student who loves physics and astronomy<br>I write mostly in LaTeX, but I'm also trying to learn Python.<br>
+I am a German high school student who loves physics and astronomy.<br>I write mostly in LaTeX, but I'm also trying to learn Python.<br>
 
 
 ## 🌐 Socials:
