@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a German high school student who loves physics and astronomy.<br>I write mostly in LaTeX, but I'm also trying to learn Python.<br>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/865950552151949313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julumasys@outlook.de) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 # 📊 GitHub Stats:
